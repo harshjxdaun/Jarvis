@@ -1,6 +1,6 @@
 # 🤖 Jarvis — Voice Assistant
 
-A Python-based voice assistant that listens for a wake word and responds to spoken commands. Jarvis can open websites, play music, and more — all hands-free.
+A Python-based voice assistant that listens for a wake word and responds to spoken commands. Jarvis can open websites and play music for you.
 
 ---
 
@@ -16,7 +16,7 @@ A Python-based voice assistant that listens for a wake word and responds to spok
 
 ##  Requirements
 
-- Python 3.7+
+- Python 3.12
 - A working microphone
 - Internet connection (for Google Speech Recognition)
 
